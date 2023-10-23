@@ -1,30 +1,3 @@
-// document.write ("<h2>sum of 3 and 5 is  <h2/>")
-// document.write +(num1 = 3 )
-// document.write +(num2 = 5)
-// var num3 = num1 + num2
-
-// document.write(num3)
-
-// document.write ("<h2>sum of 3 and 5 is  <h2/>")
-// document.write +(num1 = 3 )
-// document.write +(num2 = 5)
-// var num3 = num1 - num2
-
-// document.write(num3)
-
-// document.write ("<h2>sum of 3 and 5 is  <h2/>")
-// document.write +(num1 = 3 )
-// document.write +(num2 = 5)
-// var num3 = num1 * num2
-
-// document.write(num3)
-
-// document.write ("<h2>sum of 3 and 5 is  <h2/>")
-// document.write +(num1 = 3 )
-// document.write +(num2 = 5)
-// var num3 = num1 / num2
-
-// document.write(num3)
 
 let a = 7;
 let b = 2;
